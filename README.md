@@ -8,15 +8,15 @@
 
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="./src/img/css.svg" />
-<img align="left" alt="Sass" width="26px" src="./src/img/sass.svg" />
-<img align="left" alt="Gulp" width="26px" src="./src/img/gulpb.svg" />
-<img align="left" alt="JavaScript" width="26px" src="./src/img/jsb.svg" />
-<img align="left" alt="React" width="26px" src="./src/img/react.svg" />
-<img align="left" alt="Node.js" width="26px" src="./src/img/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="./src/img/git.png" />
-<img align="left" alt="Linux" width="26px" src="./src/img/linux.svg" />
+<img align="left" alt="HTML5" width="35px" src="./src/img/html.svg" />
+<img align="left" alt="CSS3" width="35px" src="./src/img/css.svg" />
+<img align="left" alt="Sass" width="35px" src="./src/img/sass.svg" />
+<img align="left" alt="Gulp" width="35px" src="./src/img/gulpb.svg" />
+<img align="left" alt="JavaScript" width="35px" src="./src/img/jsb.svg" />
+<img align="left" alt="React" width="35px" src="./src/img/react.svg" />
+<img align="left" alt="Node.js" width="35px" src="./src/img/nodejs.png" />
+<img align="left" alt="Git" width="35px" src="./src/img/git.png" />
+<img align="left" alt="Linux" width="35px" src="./src/img/linux.svg" />
 
 </br>
 
