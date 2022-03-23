@@ -1,4 +1,4 @@
-<img src="./src/img/main-logo_Red_Cavalry_Riding.jpg" alt="Red Cavalry Riding by Malevich" width="100%" />
+<img src="./src/img/main-logo_Red_Cavalry_Riding.jpg" alt="Red Cavalry Riding by Malevich" height="25%" />
 
 ### Hi, I'm Mikhail!
 
