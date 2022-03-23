@@ -17,5 +17,7 @@
 <img align="left" alt="Node.js" width="26px" src="./src/img/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="./src/img/git.png" />
 <img align="left" alt="Linux" width="26px" src="./src/img/linux.svg" />
+
 ---
+
 ##### Открыт к новым челленджам и интересным задачам!
