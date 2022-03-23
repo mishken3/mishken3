@@ -1,5 +1,3 @@
-<img src="./src/img/main-logo_Red_Cavalry_Riding.jpg" alt="Red Cavalry Riding by Malevich" width="25%" />
-
 ### Hi, I'm Mikhail!
 
 Я Junior Frontend разработчик, обучающийся на Hexlet.io. </br>
